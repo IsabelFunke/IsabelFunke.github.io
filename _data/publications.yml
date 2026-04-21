@@ -1,22 +1,51 @@
 main:
+  - title: A Benchmark for Video-based Laparoscopic Skill Analysis and Assessment
+    authors: <strong>Isabel Funke</strong>, Sebastian Bodenstedt, Felix von Bechtolsheim, Florian Oehme, Michael Maruschke, Stefanie Herrlich, Jürgen Weitz, Marius Distler, Sören Torge Mees, Stefanie Speidel
+    pdf: https://arxiv.org/pdf/2602.09927
+    code: https://gitlab.com/nct_tso_public/LASANA/lasana
+    image:
+    
+  - title: AIxSuture: Vision-based Assessment of Open Suturing Skills
+    authors: Hanna Hoffmann, <strong>Isabel Funke</strong>, Philipp Peters, Danush Kumar Venkatesh, Jan Egger, Dominik Rivoir, Rainer Röhrig, Frank Hölzle, Sebastian Bodenstedt, Marie-Christin Willemer, Stefanie Speidel, Behrus Puladi
+    conference_short: IPCAI
+    conference: International Conference on Information Processing in Computer-Assisted Interventions <strong>(IPCAI)</strong>, 2024.
+    pdf: https://link.springer.com/article/10.1007/s11548-024-03093-3
+    image: 
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  - title: Video-based Surgical Skill Assessment Using 3D Convolutional Neural Networks
+    authors: <strong>Isabel Funke</strong>, Sören Torge Mees, Jürgen Weitz, Stefanie Speidel
+    conference_short: IPCAI
+    conference: International Conference on Information Processing in Computer-Assisted Interventions <strong>(IPCAI)</strong>, 2019.
+    pdf: https://arxiv.org/pdf/1903.02306
+    code: https://gitlab.com/nct_tso_public/surgical_skill_classification
+    image: 
+
+  - title: Metrics Matter in Surgical Phase Recognition 
+    authors: <strong>Isabel Funke</strong>, Dominik Rivoir, Stefanie Speidel
+    pdf: https://arxiv.org/pdf/2305.13961
+    code:  https://gitlab.com/nct_tso_public/phasemetrics 
+    image: 
+
+  - title: TUNeS: A Temporal U-Net with Self-Attention for Video-based Surgical Phase Recognition
+    authors: <strong>Isabel Funke</strong>, Dominik Rivoir, Stefanie Krell, Stefanie Speidel
+    conference_short: TBME
+    conference: IEEE Transactions on Biomedical Engineering <strong>(TBME)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2307.09997
+    code:  https://gitlab.com/nct_tso_public/tunes
+    image: 
+
+  - title: Using 3D Convolutional Neural Networks to Learn Spatiotemporal Features for Automatic Surgical Gesture Recognition in Video
+    authors: <strong>Isabel Funke</strong>, Sebastian Bodenstedt, Florian Oehme, Felix von Bechtolsheim, Jürgen Weitz, Stefanie Speidel
     conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2019.
+    pdf: https://arxiv.org/pdf/1907.11454
+    code: https://gitlab.com/nct_tso_public/surgical_gesture_recognition
+    image: 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Temporal Coherence-based Self-Supervised Learning for Laparoscopic Workflow Analysis
+    authors: <strong>Isabel Funke</strong>*, Alexander Jenke, Sören Torge Mees, Jürgen Weitz, Stefanie Speidel, Sebastian Bodenstedt* (*Equal contribution)
+    conference_short: OR 2.0
+    conference: International Workshop on OR 2.0 Context-Aware Operating Theaters <strong>(OR 2.0)</strong>, 2018.
+    pdf: https://arxiv.org/pdf/1806.06811
+    code: https://gitlab.com/nct_tso_public/pretrain_tc
+    image: 
