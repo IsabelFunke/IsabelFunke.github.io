@@ -1,5 +1,3 @@
-<h2 id="Surgical skill assessment" style="margin: 2px 0px -15px;">Publications</h2>
-
 <div class="publications">
 <ol class="bibliography">
 
