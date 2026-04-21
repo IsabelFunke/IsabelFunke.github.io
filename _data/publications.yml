@@ -1,6 +1,7 @@
 main:
   - title: "A Benchmark for Video-based Laparoscopic Skill Analysis and Assessment"
     authors: <strong>Isabel Funke</strong>, Sebastian Bodenstedt, Felix von Bechtolsheim, Florian Oehme, Michael Maruschke, Stefanie Herrlich, Jürgen Weitz, Marius Distler, Sören Torge Mees, Stefanie Speidel
+    conference: 2026
     pdf: https://arxiv.org/pdf/2602.09927
     code: https://gitlab.com/nct_tso_public/LASANA/lasana
     image: ./assets/img/dummy.png
@@ -22,6 +23,7 @@ main:
 
   - title: "Metrics Matter in Surgical Phase Recognition" 
     authors: <strong>Isabel Funke</strong>, Dominik Rivoir, Stefanie Speidel
+    conference: 2023
     pdf: https://arxiv.org/pdf/2305.13961
     code:  https://gitlab.com/nct_tso_public/phasemetrics 
     image: ./assets/img/dummy.png
