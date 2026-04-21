@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a computer vision researcher working on surgical video analysis.
 
 ## Research Interests
 
@@ -13,7 +13,7 @@ I am a Ph.D. student at ...
 
 ## News
 
-- **[Jan 2026]** We released the (LASANA)[https://huggingface.co/datasets/nct-tso/lasana] video dataset for Laparoscopic Skill Analysis and Assessment.
+- **[Jan 2026]** We released the[LASANA](https://huggingface.co/datasets/nct-tso/lasana) video dataset for Laparoscopic Skill Analysis and Assessment.
 - **[Jan 2026]** I successfully defended my PhD!
 - **[Nov 2025]** Hanna talked about the AIxSuture project at the [journal club](https://research.bidmc.org/surgical-informatics/blog) of the Surgical Informatics Lab, Harvard Medical School. 
 - **[Sep 2025]** Success at the MICCAI [Trauma THOMPSON Challenge](https://t3challenge25.grand-challenge.org/): Our team ranked 1st place in Task 1 (Action recognition and anticipation) and Task 4 (Realism assessment).
@@ -25,6 +25,12 @@ I am a Ph.D. student at ...
 - **[Jun 2021]** I was awarded the [IPCAI](https://ipcai2021.github.io/) Distinguished Reviewer Award.
 - **[Oct 2020]** I was recognized as reviewer at [MICCAI](https://miccai2020.org/en/) (honorable mention).
 - **[Oct 2018]** I was awarded the Best Oral Presentation Award (Joint First Place) at the MICCAI Workshop on Context-Aware Operating Theaters (OR 2.0).
+
+## Surgical Skill Analysis
+
+{% include_relative _includes/publications.md %}
+
+## Surgical Workflow Analysis (temporal video segmentation into phases or gestures)
 
 {% include_relative _includes/publications.md %}
 
