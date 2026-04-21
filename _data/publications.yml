@@ -3,14 +3,14 @@ main:
     authors: <strong>Isabel Funke</strong>, Sebastian Bodenstedt, Felix von Bechtolsheim, Florian Oehme, Michael Maruschke, Stefanie Herrlich, Jürgen Weitz, Marius Distler, Sören Torge Mees, Stefanie Speidel
     pdf: https://arxiv.org/pdf/2602.09927
     code: https://gitlab.com/nct_tso_public/LASANA/lasana
-    image:
+    image: ./assets/img/dummy.png
     
   - title: AIxSuture: Vision-based Assessment of Open Suturing Skills
     authors: Hanna Hoffmann, <strong>Isabel Funke</strong>, Philipp Peters, Danush Kumar Venkatesh, Jan Egger, Dominik Rivoir, Rainer Röhrig, Frank Hölzle, Sebastian Bodenstedt, Marie-Christin Willemer, Stefanie Speidel, Behrus Puladi
     conference_short: IPCAI
     conference: International Conference on Information Processing in Computer-Assisted Interventions <strong>(IPCAI)</strong>, 2024.
     pdf: https://link.springer.com/article/10.1007/s11548-024-03093-3
-    image: 
+    image: ./assets/img/dummy.png
 
   - title: Video-based Surgical Skill Assessment Using 3D Convolutional Neural Networks
     authors: <strong>Isabel Funke</strong>, Sören Torge Mees, Jürgen Weitz, Stefanie Speidel
@@ -18,13 +18,13 @@ main:
     conference: International Conference on Information Processing in Computer-Assisted Interventions <strong>(IPCAI)</strong>, 2019.
     pdf: https://arxiv.org/pdf/1903.02306
     code: https://gitlab.com/nct_tso_public/surgical_skill_classification
-    image: 
+    image: ./assets/img/dummy.png
 
   - title: Metrics Matter in Surgical Phase Recognition 
     authors: <strong>Isabel Funke</strong>, Dominik Rivoir, Stefanie Speidel
     pdf: https://arxiv.org/pdf/2305.13961
     code:  https://gitlab.com/nct_tso_public/phasemetrics 
-    image: 
+    image: ./assets/img/dummy.png
 
   - title: TUNeS: A Temporal U-Net with Self-Attention for Video-based Surgical Phase Recognition
     authors: <strong>Isabel Funke</strong>, Dominik Rivoir, Stefanie Krell, Stefanie Speidel
@@ -32,7 +32,7 @@ main:
     conference: IEEE Transactions on Biomedical Engineering <strong>(TBME)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2307.09997
     code:  https://gitlab.com/nct_tso_public/tunes
-    image: 
+    image: ./assets/img/dummy.png
 
   - title: Using 3D Convolutional Neural Networks to Learn Spatiotemporal Features for Automatic Surgical Gesture Recognition in Video
     authors: <strong>Isabel Funke</strong>, Sebastian Bodenstedt, Florian Oehme, Felix von Bechtolsheim, Jürgen Weitz, Stefanie Speidel
@@ -40,7 +40,7 @@ main:
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2019.
     pdf: https://arxiv.org/pdf/1907.11454
     code: https://gitlab.com/nct_tso_public/surgical_gesture_recognition
-    image: 
+    image: ./assets/img/dummy.png
 
   - title: Temporal Coherence-based Self-Supervised Learning for Laparoscopic Workflow Analysis
     authors: <strong>Isabel Funke</strong>*, Alexander Jenke, Sören Torge Mees, Jürgen Weitz, Stefanie Speidel, Sebastian Bodenstedt* (*Equal contribution)
@@ -48,4 +48,4 @@ main:
     conference: International Workshop on OR 2.0 Context-Aware Operating Theaters <strong>(OR 2.0)</strong>, 2018.
     pdf: https://arxiv.org/pdf/1806.06811
     code: https://gitlab.com/nct_tso_public/pretrain_tc
-    image: 
+    image: ./assets/img/dummy.png
