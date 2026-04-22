@@ -2,6 +2,7 @@ main:
   - title: "A Benchmark for Video-based Laparoscopic Skill Analysis and Assessment"
     authors: <strong>Isabel Funke</strong>, Sebastian Bodenstedt, Felix von Bechtolsheim, Florian Oehme, Michael Maruschke, Stefanie Herrlich, Jürgen Weitz, Marius Distler, Sören Torge Mees, Stefanie Speidel
     conference: 2026
+    conference_short: under review
     pdf: https://arxiv.org/pdf/2602.09927
     code: https://gitlab.com/nct_tso_public/LASANA/lasana
     image: ./assets/img/dummy.png
