@@ -27,7 +27,7 @@ I am a computer vision researcher working on surgical video analysis. During my 
 - Development of a deep learning approach to automatically assess surgical training videos and recognize task-specific errors. 
 - Collaborative effort together with the University Hospital Carl Gustav Carus Dresden to create a large-scale dataset of video recordings of laparoscopic training tasks ([LASANA](https://huggingface.co/datasets/nct-tso/lasana)), crucial for building and validating automatic methods for surgical skill analysis. 
 - Collaboration with the University Hospital RWTH Aachen to validate the skill assessment method on an open suturing task, using the [AIxSuture](https://zenodo.org/records/7940583) dataset.
-- Implementation of automatic, real-time, video-based skill analysis in a minimalistic training box setup for laparoscopic surgery. For the peg transfer task, the software counts the number of dropped pins, estimates the number of successfully transferred pins, and rates the task execution on a scale from 0 to 100. See the demo video of an example execution below! 
+- Implementation of automatic, real-time, video-based skill analysis in a minimalistic training box setup for laparoscopic surgery. For the peg transfer task, the software counts the number of dropped pins, estimates the number of successfully transferred pins, and rates the task execution on a scale from 0 to 100. See the demo video of an example run below! 
 
 {% include_relative _includes/boxtrainer.html %}
 
@@ -35,7 +35,13 @@ I am a computer vision researcher working on surgical video analysis. During my 
 
 {% include_relative _includes/publications.md %}
 
-### Surgical Workflow Analysis (temporal video segmentation into phases or gestures)
+### Surgical Workflow Analysis (temporal video segmentation)
+
+To recognize fine-grained gestures/actions and high-level phases in surgical videos, I investigated deep learning-based approaches focusing on
+- modeling global temporal information by integrating attention mechanism, and
+- improving the modeling of local visual information by training in a self-supervised manner, training with extended temporal context, or moving from frame-wise analysis (image models) to clip-wise analysis (video models).
+
+I also pointed out differences in evaluation protocols and how they may hinder the fair comparison of methods for surgical phase recognition.
 
 #### Publications
 
