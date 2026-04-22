@@ -18,7 +18,6 @@ main:
     conference_short: IPCAI
     conference: International Conference on Information Processing in Computer-Assisted Interventions <strong>(IPCAI)</strong>, 2019.
     pdf: https://arxiv.org/pdf/1903.02306
-    code: https://gitlab.com/nct_tso_public/surgical_skill_classification
     image: ./assets/img/dummy.png
 
 
