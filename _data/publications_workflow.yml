@@ -4,7 +4,7 @@ main:
     conference: 2023
     pdf: https://arxiv.org/pdf/2305.13961
     code:  https://gitlab.com/nct_tso_public/phasemetrics 
-    image: ./assets/img/dummy.png
+    image: ./assets/img/metrics.png
 
   - title: "TUNeS: A Temporal U-Net with Self-Attention for Video-based Surgical Phase Recognition"
     authors: <strong>Isabel Funke</strong>, Dominik Rivoir, Stefanie Krell, Stefanie Speidel
@@ -12,18 +12,18 @@ main:
     conference: IEEE Transactions on Biomedical Engineering <strong>(TBME)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2307.09997
     code:  https://gitlab.com/nct_tso_public/tunes
-    image: ./assets/img/dummy.png
+    image: ./assets/img/tunes.png
 
   - title: "Using 3D Convolutional Neural Networks to Learn Spatiotemporal Features for Automatic Surgical Gesture Recognition in Video"
     authors: <strong>Isabel Funke</strong>, Sebastian Bodenstedt, Florian Oehme, Felix von Bechtolsheim, Jürgen Weitz, Stefanie Speidel
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2019.
     pdf: https://arxiv.org/pdf/1907.11454
-    image: ./assets/img/dummy.png
+    image: ./assets/img/3dcnn.png
 
   - title: "Temporal Coherence-based Self-Supervised Learning for Laparoscopic Workflow Analysis"
     authors: <strong>Isabel Funke</strong>*, Alexander Jenke, Sören Torge Mees, Jürgen Weitz, Stefanie Speidel, Sebastian Bodenstedt* (*Equal contribution)
     conference_short: OR 2.0
     conference: International Workshop on OR 2.0 Context-Aware Operating Theaters <strong>(OR 2.0)</strong>, 2018.
     pdf: https://arxiv.org/pdf/1806.06811
-    image: ./assets/img/dummy.png
+    image: ./assets/img/self_supervised.png
