@@ -2,6 +2,7 @@ main:
   - title: "Metrics Matter in Surgical Phase Recognition" 
     authors: <strong>Isabel Funke</strong>, Dominik Rivoir, Stefanie Speidel
     conference: 2023
+    conference_short: arXiv
     pdf: https://arxiv.org/pdf/2305.13961
     code:  https://gitlab.com/nct_tso_public/phasemetrics 
     image: ./assets/img/metrics.png
