@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a computer vision researcher working on surgical video analysis.
+I am a computer vision researcher working on surgical video analysis. During my PhD, I developed deep learning-based methods to enable automatic analysis and interpretation of minimally-invasive surgical videos, with applications in the operating room and in simulation-based surgical training. 
 
 ## News
 
