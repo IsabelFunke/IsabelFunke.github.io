@@ -38,7 +38,7 @@ I am a computer vision researcher working on surgical video analysis. During my 
 ### Surgical Workflow Analysis (temporal video segmentation)
 
 To recognize fine-grained gestures/actions and high-level phases in surgical videos, I investigated deep learning-based approaches focusing on
-- modeling global temporal information by integrating attention mechanism, and
+- modeling global temporal information by integrating attention mechanisms, and
 - improving the modeling of local visual information by training in a self-supervised manner, training with extended temporal context, or moving from frame-wise analysis (image models) to clip-wise analysis (video models).
 
 I also pointed out differences in evaluation protocols and how they may hinder the fair comparison of methods for surgical phase recognition.
