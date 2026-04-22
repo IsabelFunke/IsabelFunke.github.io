@@ -6,14 +6,9 @@ layout: homepage
 
 I am a computer vision researcher working on surgical video analysis.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
 ## News
 
-- **[Jan 2026]** We released the[LASANA](https://huggingface.co/datasets/nct-tso/lasana) video dataset for Laparoscopic Skill Analysis and Assessment.
+- **[Jan 2026]** We released the [LASANA](https://huggingface.co/datasets/nct-tso/lasana) video dataset for Laparoscopic Skill Analysis and Assessment.
 - **[Jan 2026]** I successfully defended my PhD!
 - **[Nov 2025]** Hanna talked about the AIxSuture project at the [journal club](https://research.bidmc.org/surgical-informatics/blog) of the Surgical Informatics Lab, Harvard Medical School. 
 - **[Sep 2025]** Success at the MICCAI [Trauma THOMPSON Challenge](https://t3challenge25.grand-challenge.org/): Our team ranked 1st place in Task 1 (Action recognition and anticipation) and Task 4 (Realism assessment).
@@ -32,6 +27,4 @@ I am a computer vision researcher working on surgical video analysis.
 
 ## Surgical Workflow Analysis (temporal video segmentation into phases or gestures)
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+{% include_relative _includes/publications_2.md %}
