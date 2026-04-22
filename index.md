@@ -21,14 +21,20 @@ I am a computer vision researcher working on surgical video analysis. During my 
 - **[Oct 2020]** I was recognized as reviewer at [MICCAI](https://miccai2020.org/en/) (honorable mention).
 - **[Oct 2018]** I was awarded the Best Oral Presentation Award (Joint First Place) at the MICCAI Workshop on Context-Aware Operating Theaters (OR 2.0).
 
-## Surgical Skill Analysis
+## Research Highlights
 
-### Publications
+### Surgical Skill Analysis
+- Development of a deep learning approach to automatically assess surgical training videos and recognize task-specific errors. 
+- Collaborative effort together with the University Hospital Carl Gustav Carus Dresden to create a large-scale dataset of video recordings of laparoscopic training tasks ([LASANA](https://huggingface.co/datasets/nct-tso/lasana)), crucial for building and validating automatic methods for surgical skill analysis. 
+- Collaboration with the University Hospital RWTH Aachen to validate the skill assessment method on an open suturing task, using the [AIxSuture](https://zenodo.org/records/7940583) dataset.
+- Implementation of automatic, real-time, video-based skill analysis in a minimalistic training box setup for laparoscopic surgery. For the peg transfer task, the software counts the number of dropped pins, estimates the number of successfully transferred pins, and rates the task execution on a scale from 0 to 100.  
+
+#### Publications
 
 {% include_relative _includes/publications.md %}
 
-## Surgical Workflow Analysis (temporal video segmentation into phases or gestures)
+### Surgical Workflow Analysis (temporal video segmentation into phases or gestures)
 
-### Publications
+#### Publications
 
 {% include_relative _includes/publications_2.md %}
