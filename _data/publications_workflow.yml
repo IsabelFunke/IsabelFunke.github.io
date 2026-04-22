@@ -12,7 +12,7 @@ main:
     conference: IEEE Transactions on Biomedical Engineering <strong>(TBME)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2307.09997
     code:  https://gitlab.com/nct_tso_public/tunes
-    image: ./assets/img/tunes.png
+    image: ./assets/img/tunes.jpg
 
   - title: "Using 3D Convolutional Neural Networks to Learn Spatiotemporal Features for Automatic Surgical Gesture Recognition in Video"
     authors: <strong>Isabel Funke</strong>, Sebastian Bodenstedt, Florian Oehme, Felix von Bechtolsheim, Jürgen Weitz, Stefanie Speidel
