@@ -23,8 +23,12 @@ I am a computer vision researcher working on surgical video analysis.
 
 ## Surgical Skill Analysis
 
+### Publications
+
 {% include_relative _includes/publications.md %}
 
 ## Surgical Workflow Analysis (temporal video segmentation into phases or gestures)
+
+### Publications
 
 {% include_relative _includes/publications_2.md %}
