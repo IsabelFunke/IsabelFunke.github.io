@@ -10,6 +10,7 @@ I am a computer vision researcher working on surgical video analysis. During my 
 
 - **[Jan 2026]** We released the [LASANA](https://huggingface.co/datasets/nct-tso/lasana) video dataset for Laparoscopic Skill Analysis and Assessment.
 - **[Jan 2026]** I successfully defended my PhD!
+- **[Dez 2025]** I became member of the editorial board of the [International Journal of Computer Assisted Radiology and Surgery](https://link.springer.com/journal/11548).
 - **[Nov 2025]** Hanna talked about the AIxSuture project at the [journal club](https://research.bidmc.org/surgical-informatics/blog) of the Surgical Informatics Lab, Harvard Medical School. 
 - **[Sep 2025]** Success at the MICCAI [Trauma THOMPSON Challenge](https://t3challenge25.grand-challenge.org/): Our team ranked 1st place in Task 1 (Action recognition and anticipation) and Task 4 (Realism assessment).
 - **[Sep 2025]** I was awarded the [MICCAI](https://conferences.miccai.org/2025/en/) Outstanding Reviewer Award.
